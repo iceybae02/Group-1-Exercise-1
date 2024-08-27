@@ -112,7 +112,7 @@ body{
 #home .poster .poster-holder{
     height: 75%;
     width: 100%;
-    background: url(profile-bg.png) no-repeat;
+    background: url(/profile-bg.png) no-repeat;
     background-position: center center;
     background-size: cover;
 }
