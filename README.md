@@ -1,2 +1,0 @@
-# Group-1-Exercise-1
-GROUP 1 HTML CSS EXERCISE 1
